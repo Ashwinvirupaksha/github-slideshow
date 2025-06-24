@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Gear Housing",
+    "description": "Durable injection moulded gear housing for industrial machines.",
+    "price": 12.99
+  },
+  {
+    "id": 2,
+    "name": "Valve Cover",
+    "description": "High precision moulded valve cover used in automotive engines.",
+    "price": 7.5
+  },
+  {
+    "id": 3,
+    "name": "Enclosure",
+    "description": "Weather-resistant plastic enclosure for electronic devices.",
+    "price": 15.0
+  }
+]
